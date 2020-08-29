@@ -1,0 +1,10 @@
+
+1. Ongoing vote : This section show you the runnung vote. Only one vote can run simultaneouly. You can see the sender list and the summary of updated result. You can sort sender list according to mobile number or vote or time of sending. 
+
+2. Voting schedule : In this section you can set schedules for upcoming events. You can also edit or delete any event that was created before.
+
+3. Result archive : This section will show you result of past events along with all SMS for that event. You can see here the list of accepted SMS for that voting event and a pie graph of result of that vote.
+
+4. Change password : You can change the login password from here.
+
+5. Send SMS : You can send a SMS to a specific client from here.
